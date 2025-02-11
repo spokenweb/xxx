@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-11T21:40:05.648Z",
+  "created_by": "spokenweb",
+  "title": "xxx",
+  "slug": "xxx",
+  "updated_at": "2025-02-11T21:40:05.648Z",
+  "updated_by": "spokenweb",
+  "parent": "8acd76bf-9897-421c-8aad-44edf348974c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "cdba8ce4-7d16-4f0e-ab81-2ee1157b39e1"
+  }
+}
